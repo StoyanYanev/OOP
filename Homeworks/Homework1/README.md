@@ -57,10 +57,10 @@ _5 1 2 + 4 \* + 3 -_
   - Зареждане на продуктите от файл.
 - Да се дефинира главна програма, реализираща следното меню:
 
-- A        Add new product
-- X        Delete product
-- C        Change product
-- D        Display products
-- S        Save products
-- L        Load products
-- Q        Quit
+    - A    Add new product
+    - X    Delete product
+    - C    Change product
+    - D    Display products
+    - S    Save products
+    - L    Load products
+    - Q    Quit
